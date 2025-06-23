@@ -4,14 +4,15 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Navbar from './Navbar'
 import Hero from './Hero'
+import AstrattoLanding from './Heropage'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-    <Navbar/>
-      <Hero/>
+    <AstrattoLanding/>
+
     </>
   )
 }

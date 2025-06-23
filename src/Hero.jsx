@@ -10,7 +10,7 @@ function Hero() {
         </div>
         <div className='  justify-center items-center relative top-15 w-260 left-[15%] bg-white h-105 text-black text-roboto text-[105px] text-center font-bold'>
             Unleash Your 
-            <br></br>Brand <img src="src/assets/orange-logo.png" alt="" srcset="" /> with Our Magico Design
+            <br></br>Brand <img src="src/assets/orange-logo.png" alt="" /> with Our Magico Design
 
         </div>
     </div>

@@ -14,7 +14,7 @@ function Navbar() {
 
         <div className="h-21 w-190  flex justify-around items-center px-50 text-2xl text-black font-bold">
           <div className="relative left-3 top-2 h-15 w-15 ">
-            <img src="src/assets/logo.png" alt="" srcset="" />
+            <img src="src/assets/logo.png" alt=""  />
           </div>
           
         <div className="relative left-[-85px]">
